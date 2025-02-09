@@ -115,4 +115,24 @@ header a {
     text-align: center;
     font-size: 13px;
     color: grey;
+    font-weight: 400;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 4em 16em;
+}
+
+.main-quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.author-quote {
+    text-align: end;
+    font-weight: bold;
 }
