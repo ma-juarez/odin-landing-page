@@ -177,3 +177,16 @@ header a {
     flex: auto;
     padding: 0.5em;
 }
+
+footer {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer p {
+    color: #F9FAF8;
+    font-size: 13px;
+    padding: 2em;
+}
